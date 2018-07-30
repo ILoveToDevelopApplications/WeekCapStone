@@ -1,0 +1,7 @@
+C:\Users\An Image of God\source\repos\WeekCapStones\WeekCapStone\obj\Debug\WeekCapStone.csprojAssemblyReference.cache
+C:\Users\An Image of God\source\repos\WeekCapStones\WeekCapStone\obj\Debug\WeekCapStone.csproj.CoreCompileInputs.cache
+C:\Users\An Image of God\source\repos\WeekCapStones\WeekCapStone\bin\Debug\WeekCapStone.exe.config
+C:\Users\An Image of God\source\repos\WeekCapStones\WeekCapStone\bin\Debug\WeekCapStone.exe
+C:\Users\An Image of God\source\repos\WeekCapStones\WeekCapStone\bin\Debug\WeekCapStone.pdb
+C:\Users\An Image of God\source\repos\WeekCapStones\WeekCapStone\obj\Debug\WeekCapStone.exe
+C:\Users\An Image of God\source\repos\WeekCapStones\WeekCapStone\obj\Debug\WeekCapStone.pdb
